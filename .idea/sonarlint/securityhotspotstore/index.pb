@@ -37,3 +37,9 @@ G.idea/sonarlint/issuestore/3/6/368f847125d561eee73abf26a622f7617b36bf80,b\5\b5
 Q.idea/sonarlint/securityhotspotstore/0/0/0052bfdde5d73447761fab898f608462fd183f13,d\b\dbabdd00a3773117ef837b506c469029ad550fbc
 w
 G.idea/sonarlint/issuestore/e/0/e007c78546be41e78e03d1ee308184d8ed5fbfcd,f\5\f5a02563eb1357895b3f0c67b05db749bd32a9bf
+b
+2src/test/java/pl/akademiaqa/modul6/_1PageTest.java,a\6\a6dd78711310fbf27794d1c71758b15644efa920
+b
+2src/test/java/pl/akademiaqa/modul6/_2PageTest.java,4\d\4d8711cae421028ad7449f04e24a40685483a7b2
+b
+2src/test/java/pl/akademiaqa/modul6/_3PageTest.java,2\5\25af53e47ee28a3f105edf1c9e2464306321239b
