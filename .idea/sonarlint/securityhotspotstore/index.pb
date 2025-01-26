@@ -43,3 +43,9 @@ b
 2src/test/java/pl/akademiaqa/modul6/_2PageTest.java,4\d\4d8711cae421028ad7449f04e24a40685483a7b2
 b
 2src/test/java/pl/akademiaqa/modul6/_3PageTest.java,2\5\25af53e47ee28a3f105edf1c9e2464306321239b
+f
+6src/test/java/pl/akademiaqa/modul6/_4DropdownTest.java,b\c\bcbebb51e6ec666aec08e947bcfaa05b87f09aec
+f
+6src/test/java/pl/akademiaqa/modul6/_5CheckboxTest.java,e\e\ee4294cc63236241962aabd908f163ca1f1f4789
+h
+8src/test/java/pl/akademiaqa/modul6/_6AssertionsTest.java,7\7\7796a335f4e192f54fb48c2937e986980f2231f3
