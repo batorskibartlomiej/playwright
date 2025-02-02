@@ -49,3 +49,17 @@ f
 6src/test/java/pl/akademiaqa/modul6/_5CheckboxTest.java,e\e\ee4294cc63236241962aabd908f163ca1f1f4789
 h
 8src/test/java/pl/akademiaqa/modul6/_6AssertionsTest.java,7\7\7796a335f4e192f54fb48c2937e986980f2231f3
+i
+9src/test/java/pl/akademiaqa/modul6/_7RadioButtonTest.java,5\1\510e07473cba75e620a633061bf2dd439aa956bb
+m
+=src/test/java/pl/akademiaqa/modul6/_8DynamicElementsTest.java,f\b\fba6d9400ca395c2ae6a130a9a91dfb0c90987be
+k
+;src/test/java/pl/akademiaqa/modul6/_9KeyboardMouseTest.java,a\9\a9ba1401c6fa04f6ef64447d240d65b3a867106e
+d
+4src/test/java/pl/akademiaqa/modul6/_10TableTest.java,1\3\1398248cbcc87d99f74abc87551a42f0127efd62
+a
+1src/test/java/pl/akademiaqa/modul6/TableUser.java,3\8\3869f3acfdfadd6962b3f41367135e9de53f8044
+b
+2src/test/java/pl/akademiaqa/modul6/_FinalTest.java,4\5\45bc432e34bd0a53c9833b96e30be11b0edb29b5
+_
+/src/test/java/pl/akademiaqa/modul6/Product.java,8\7\8748f5c143b2738bee341b5adb1cdb4150153fe3
