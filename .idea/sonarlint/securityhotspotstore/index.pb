@@ -79,3 +79,11 @@ G
 uploads/upload-file.txt,6\2\623307e9d31987711459023e7c27364a98a32512
 I
 uploads/upload-file_1.txt,1\c\1cc455d3ed116e7d49f51669c8dcc2c7d6671651
+j
+:src/test/java/pl/akademiaqa/modul7/_6ScreenshotsTests.java,3\7\37f63501bc68b127ac8cd9e3f00705c9b3d9563e
+l
+<src/test/java/pl/akademiaqa/modul7/_7VideoRecordingTest.java,0\d\0db2beeb7f2f085a3a5936330d3d52c32ccfc6f7
+e
+5src/test/java/pl/akademiaqa/modul7/_8TracingTest.java,e\e\eebafb8be3a020c22e8b737689c351ef1ba18dd5
+b
+2src/main/java/pl/akademiaqa/utils/StringUtils.java,e\1\e1eacf8e4789ab4342b9d06a9177c6099327a7d3

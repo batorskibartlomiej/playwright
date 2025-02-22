@@ -1,12 +1,14 @@
 package pl.akademiaqa.common;
 
 import com.microsoft.playwright.*;
-import org.junit.jupiter.api.AfterAll;
-import org.junit.jupiter.api.AfterEach;
-import org.junit.jupiter.api.BeforeAll;
-import org.junit.jupiter.api.BeforeEach;
+import com.microsoft.playwright.options.RecordVideoSize;
+import org.junit.jupiter.api.*;
+import pl.akademiaqa.utils.StringUtils;
 
-import java.util.List;
+import java.nio.file.Paths;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
+
 
 public class BaseTest {
 
@@ -27,12 +29,33 @@ public class BaseTest {
     @BeforeEach
     void beforeEach(){
         context = browser.newContext();
+
+        //START TRACING
+        context.tracing().start(new Tracing.StartOptions()
+                .setScreenshots(true)
+                .setSnapshots(true)
+                .setSources(true));
+
+        //NAGRYWANIE VIDEO
+//        context = browser.newContext(new Browser.NewContextOptions()
+//                .setViewportSize(1920,1080)
+//                .setRecordVideoDir(Paths.get("videos/"))
+//                .setRecordVideoSize(new RecordVideoSize(1920,1080)));
+
+
+
         page = context.newPage();
     }
 
     @AfterEach
-    void afterEach(){
+    void afterEach(TestInfo testInfo){
+        String traceName = "traces/trace_"
+                + StringUtils.removeRoundBrackets(testInfo.getDisplayName())
+                +"_"+ LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy-MM-dd_HH-mm-ss"))+".zip";
+
+        context.tracing().stop(new Tracing.StopOptions().setPath(Paths.get(traceName)));
         context.close();
+
     }
 
     @AfterAll
