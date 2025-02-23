@@ -87,3 +87,13 @@ e
 5src/test/java/pl/akademiaqa/modul7/_8TracingTest.java,e\e\eebafb8be3a020c22e8b737689c351ef1ba18dd5
 b
 2src/main/java/pl/akademiaqa/utils/StringUtils.java,e\1\e1eacf8e4789ab4342b9d06a9177c6099327a7d3
+g
+7src/test/java/pl/akademiaqa/modul7/_9BasicAuthTest.java,a\0\a064b48c72d6c5dbe33ef7eca800f92240e8dbcb
+n
+>src/test/java/pl/akademiaqa/modul7/_10WindowsHandlingTest.java,6\7\675bb05946cf2444a0297aff60f6cc4ba37367f7
+k
+;src/test/java/pl/akademiaqa/modul7/_11StorageStateTest.java,2\9\29cf0c11415174216868711e091c57680bb49221
+D
+storage/aplogin.json,a\c\ac5d9a97e578d398e1c48ea88e88f160d1d45ed5
+i
+9src/test/java/pl/akademiaqa/modul7/_12JavaScriptTest.java,6\5\6532ccc4d694c072dc15ee34acca31c6f681b952
