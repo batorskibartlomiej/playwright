@@ -97,3 +97,5 @@ D
 storage/aplogin.json,a\c\ac5d9a97e578d398e1c48ea88e88f160d1d45ed5
 i
 9src/test/java/pl/akademiaqa/modul7/_12JavaScriptTest.java,6\5\6532ccc4d694c072dc15ee34acca31c6f681b952
+b
+2src/test/java/pl/akademiaqa/modul7/_FinalTest.java,2\5\258294407ad13cf6bc089bc9e59d3c59f5d0ca31
