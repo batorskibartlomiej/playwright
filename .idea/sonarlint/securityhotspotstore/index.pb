@@ -99,3 +99,13 @@ i
 9src/test/java/pl/akademiaqa/modul7/_12JavaScriptTest.java,6\5\6532ccc4d694c072dc15ee34acca31c6f681b952
 b
 2src/test/java/pl/akademiaqa/modul7/_FinalTest.java,2\5\258294407ad13cf6bc089bc9e59d3c59f5d0ca31
+m
+=src/test/java/pl/akademiaqa/modul8/SendContactUsFormTest.java,e\e\ee2475318a6b3aaf104b8c464ec9b8d9b0601495
+f
+6src/test/java/pl/akademiaqa/modul8/pages/HomePage.java,6\d\6d807e9f06df0c7e6b63438d0b07c1b5c5c5852a
+k
+;src/test/java/pl/akademiaqa/modul8/pages/ContactUsPage.java,4\8\4862c70b547422bf9a68d518d79b9a5fb0ddb380
+u
+Esrc/test/java/pl/akademiaqa/modul8/pages/sections/TopMenuSection.java,4\1\41074fa09d3032185e81969971216daf1b77be6f
+{
+Ksrc/test/java/pl/akademiaqa/modul8/pages/sections/ContactUsFormSection.java,d\a\da6a45ef21814644a20468dbbe8e0a91ad68a33b
